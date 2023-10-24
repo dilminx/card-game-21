@@ -1,0 +1,45 @@
+#mainBdy{
+    padding-left:40px;
+    background-image:url(images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#nameGame{
+    color: white;
+    font: size 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+    text-align: center;
+
+}
+#gen_btn{
+   
+    padding: 20px;
+    font-size:25px;
+    border: 2px red solid;
+    border-radius: 5px;
+    background-color: rgb(29, 216, 207);
+    
+}
+#reload{
+    font-size:35px;
+    border: 2px red solid;
+    border-radius: 5px;
+    background-color: rgb(183, 242, 82);
+    margin-left: 50%;
+    display:none;
+}
+h2,h3{
+    color: azure;
+    padding-left:45%;
+    font-size: 30px;
+    
+}
+
+#result{
+    border: 5px solid rgb(234, 7, 7);
+    padding-left: 40%;
+    font-size: 50px;
+    font-weight:bold;
+    
+}
